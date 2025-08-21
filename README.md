@@ -41,12 +41,19 @@ Deployment: Flask / Streamlit / Heroku / GitHub
 
 ## 📂 Project Structure
 Restaurant-Reviews-Sentiment-Analysis-Deployment/
+
 │── dataset/                     # Dataset files (e.g., Restaurant_Reviews.tsv)
+
 │── Sentiment Analysis of Restaurant Reviews.ipynb  # Jupyter notebook
+
 │── app.py                        # Flask/Streamlit app file
+
 │── requirements.txt              # Dependencies
+
 │── README.md                     # Project documentation
+
 │── templates/ (if Flask)         # HTML templates
+
 │── static/ (if Flask)            # CSS/JS files
 
 ---
@@ -56,6 +63,7 @@ Restaurant-Reviews-Sentiment-Analysis-Deployment/
 Clone the repository
 
 git clone https://github.com/jaithunshifaya/Restaurant_Reviews.git
+
 cd Restaurant_Reviews
 
 
@@ -70,6 +78,7 @@ python app.py
 
 
 Open in browser
+
 Go to http://127.0.0.1:5000/ to test the app.
 
 ---
@@ -82,7 +91,7 @@ Evaluation Metrics: Precision, Recall, F1-Score
 
 ---
 
-##🔮 Future Enhancements
+## 🔮 Future Enhancements
 
 Add more restaurant datasets for higher accuracy.
 
