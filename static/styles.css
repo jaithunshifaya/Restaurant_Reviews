@@ -14,7 +14,7 @@ body{
 	flex-direction: column;
 }
 
-/* Website Title */
+/*Title*/
 .container{
 	padding: 30px;
 	position: relative;
@@ -120,3 +120,4 @@ body{
 .safe{
     color: green;
 }
+
